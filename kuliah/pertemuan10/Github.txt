@@ -1,0 +1,4 @@
+git status // mengecek
+git add . // tambahkan semua file ke yang baru
+git commit -m 'menambahkan 2 database' // menambahkan pesan
+git push // terakhir mengirim ke github
